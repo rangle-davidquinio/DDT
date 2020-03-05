@@ -7,6 +7,7 @@ A simple data driven test for TestCafe.
 2) Ensure that Node.js and npm are installed on your computer and run the following command:
 
 Global: npm install -g testcafe
+
 Local: npm install --save-dev testcafe
 
 ## To Test
