@@ -11,6 +11,6 @@ Global: npm install -g testcafe
 Local: npm install --save-dev testcafe
 
 ## To Test
-1. cd DDT/TestCafe
+1. cd DDT
 2. testcafe [browser] data-driven-test.js = testcafe chrome data-driven-test.js
 https://devexpress.github.io/testcafe/documentation/using-testcafe/command-line-interface.html
